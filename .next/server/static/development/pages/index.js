@@ -278,7 +278,7 @@ var Index = function Index() {
       lineNumber: 5
     },
     __self: this
-  }, "Welcome to the home page"));
+  }, "Welcome to the home page. This is a new next.js project."));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
